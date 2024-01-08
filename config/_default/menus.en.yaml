@@ -1,0 +1,29 @@
+main:
+  - identifier: blog
+    name: Blog
+    weight: 4
+    params:
+      icon:
+        vendor: fas
+        name: blog
+
+  - name: Support
+    identifier: support
+    weight: 100
+    url: https://github.com/stardoom4
+    params:
+      header: The HB support community.
+      icon:
+        vendor: font-awesome-solid
+        name: headset
+
+
+  - name: GitHub
+    parent: support
+    url: https://github.com/stardoom4/cards4
+    weight: 11
+    params:
+      icon:
+        vendor: fab
+        name: github
+      description: The code repository.
