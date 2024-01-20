@@ -12,7 +12,7 @@ main:
     weight: 100
     url: https://github.com/stardoom4
     params:
-      header: The HB support community.
+      header: Support.
       icon:
         vendor: font-awesome-solid
         name: headset

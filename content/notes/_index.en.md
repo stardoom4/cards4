@@ -1,7 +1,7 @@
 ---
-title: Notes
+title: Wiki
 type: docs
-description: Yet another digital garden that using docs layout.
+description: A personal Wiki.
 menu:
   main:
     weight: 1

@@ -78,13 +78,13 @@ hb:
         - blog
     giscus:
       repo: stardoom4/cards4
-      repo_id: R_kgDOK1LmSQ
-      category_id: DIC_kwDOK1LmSc4CbdiM
+      repo_id: R_kgDOLCU4hg
+      category_id: DIC_kwDOLCU4hs4CcSRB
   docs:
     giscus:
       repo: hbstack/theme-cards
-      repo_id: R_kgDOK1LmSQ
-      category_id: DIC_kwDOK1LmSc4CbdiM
+      repo_id: R_kgDOLCU4hg
+      category_id: DIC_kwDOLCU4hs4CcSRB
   content_panel:
     repo:
       service: github # github or gitlab.
@@ -99,7 +99,7 @@ hb:
 
 seo:
   favicons: # see https://hugomods.com/en/docs/seo/#favicons-module
-    icon: pfp.png # use logo as favicon.
+    icon: images/pfp.png # use logo as favicon.
 
 # PWA settings, see https://hugomods.com/en/docs/pwa/#site-parameters.
 pwa:

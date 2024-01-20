@@ -1,5 +1,5 @@
 ---
-title: HB Cards Theme
+title: Celestial Mind 
 # menu:
 #   main:
 #     name: Home
