@@ -178,6 +178,8 @@ github.com/hbstack/syntax-highlighting/styles/gruvbox v0.1.1 h1:IzJlnkHGS8XhibNj
 github.com/hbstack/syntax-highlighting/styles/gruvbox v0.1.1/go.mod h1:ar5ZFplNyVZCVG6rvo69co1hNZwptxtrDz3zproGLPg=
 github.com/hbstack/theme-cards v0.1.0 h1:yQmTq/L25AptzlxRp/j4y4lfcCMZmwlUGXLbCTtYPWs=
 github.com/hbstack/theme-cards v0.1.0/go.mod h1:qYUGVXf9WZsmQWnWPgLUuzJJNgIyUh2Wh0HJgNIGKLI=
+github.com/hbstack/theme-cards v0.1.1 h1:x4rupfKrv3xxEy80lzenTwsbzCUSLHXyb9CzW4JJelk=
+github.com/hbstack/theme-cards v0.1.1/go.mod h1:grBCoimeFOh4iTK8bnVD0uoZG2KE8yBiTGkGRh2Bgmk=
 github.com/hbstack/toc-scrollspy v0.1.0 h1:sr9HidxHVYeSZR1FVOGQzphONSsct/OscbWPSV+vMlo=
 github.com/hbstack/toc-scrollspy v0.1.0/go.mod h1:wIqdWFRjqGGKX6Y5XVRQzaBBeZ91kZBKgovQp8IPvtk=
 github.com/henrygd/bigger-picture v1.1.12 h1:0SwIX+ZY1Jt2DyRX9Tswt8JrB0NNARBN899bVzF0DGA=

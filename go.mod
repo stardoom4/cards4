@@ -2,7 +2,6 @@ module github.com/user/repo
 
 go 1.19
 
-
 require (
 	github.com/GoogleChrome/workbox v7.0.0+incompatible // indirect
 	github.com/KaTeX/KaTeX v0.16.9 // indirect
@@ -61,7 +60,7 @@ require (
 	github.com/hbstack/socials v0.9.0 // indirect
 	github.com/hbstack/syntax-highlighting v0.2.0 // indirect
 	github.com/hbstack/syntax-highlighting/styles/gruvbox v0.1.1 // indirect
-	github.com/hbstack/theme-cards v0.1.0 // indirect
+	github.com/hbstack/theme-cards v0.1.1 // indirect
 	github.com/hbstack/toc-scrollspy v0.1.0 // indirect
 	github.com/henrygd/bigger-picture v1.1.14 // indirect
 	github.com/hugomods/base v0.4.1 // indirect
