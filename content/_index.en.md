@@ -1,5 +1,5 @@
 ---
-title: Celestial Mind 
+title: Celestial Entity
 # menu:
 #   main:
 #     name: Home
@@ -8,4 +8,6 @@ title: Celestial Mind
 #       icon:
 #         vendor: bs
 #         name: house
+layout: docs
+description: A personal website and a Digital Garden.
 ---
