@@ -1,7 +1,7 @@
 baseURL: https://hb4244.netlify.app
 title: Celestial Minds
 # Copyright, the {year} is the placeholder of this year.
-copyright: "Public Domain. I like Freedom."
+copyright: "Public Domain."
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: false # when true, append the default language code into URL, i.e. /docs -> /en/docs.
 enableRobotsTXT: true
