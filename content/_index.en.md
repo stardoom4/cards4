@@ -8,6 +8,5 @@ title: Celestial Entity
 #       icon:
 #         vendor: bs
 #         name: house
-type: docs
 description: A personal website and a Digital Garden.
 ---
