@@ -46,7 +46,7 @@ hb:
         style: pills # pills, tabs or underline.
         list_style: slide # slide or vertical.
       taxonomies:
-        count: false # whether to show the number of posts associated to the item.
+        count: true # whether to show the number of posts associated to the item.
         limit: 10 # the maximum number of the item.
         style: pills # pills, tabs or underline.
         separate: false # whether to separate into mutliple sections.
@@ -62,7 +62,7 @@ hb:
           disable: true
           weight: 2
         tags:
-          disable: false
+          disable: true
           weight: 4
           limit: 20
           # title: Popular Tags # override the title.
