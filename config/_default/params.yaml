@@ -27,7 +27,7 @@ hb:
     toc:
       position: end
     sidebar:
-      sticky: true # set it to false to not stick the sidebar.
+      sticky: false # set it to false to not stick the sidebar.
       width: .35 # the width of sidebar.
       position: start # the sidebar position: start (left) or end (right).
       profile:
@@ -72,7 +72,7 @@ hb:
     # post_date_format: ":date_long" # see https://gohugo.io/functions/dateformat/#datetime-formatting-layouts.
     home: # homepage settings.
       taxonomies: false # remove the taxonomies stat from the homepage.
-      featured_posts: 5 # the number of the featured posts, 0 means disabled.
+      featured_posts: 0 # the number of the featured posts, 0 means disabled.
       pinned_posts_position: "list"
       main_sections: # leave it empty to include all regular pages.
         - blog
