@@ -51,7 +51,7 @@ hb:
         style: pills # pills, tabs or underline.
         separate: false # whether to separate into mutliple sections.
         authors:
-          disable: false # whether to disable this taxonomy.
+          disable: true # whether to disable this taxonomy.
           weight: 1 # the weight of this taxonomy, lower gets higher priority.
           count: false # override the global count setting.
           limit: 5 # override the global limit setting.
@@ -68,7 +68,7 @@ hb:
           # title: Popular Tags # override the title.
     paginate: 12 # paginate.
     post_thumbnail_placeholder: Celestial Mind # the text of thumbnail placeholder, default to site title.
-    post_thumbnail: false # whether to show the thumbnails.
+    post_thumbnail: true # whether to show the thumbnails.
     # post_date_format: ":date_long" # see https://gohugo.io/functions/dateformat/#datetime-formatting-layouts.
     home: # homepage settings.
       taxonomies: false # remove the taxonomies stat from the homepage.
