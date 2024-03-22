@@ -62,7 +62,7 @@ hb:
           disable: true
           weight: 2
         tags:
-          disable: true
+          disable: false
           weight: 4
           limit: 20
           # title: Popular Tags # override the title.
