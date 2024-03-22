@@ -5,7 +5,7 @@ hb:
   # css_bundle_name: main # the CSS bundle name.
   full_width: false # when true, the layout takes full width globally.
   header:
-    brand: PV # the brand name, leave it empty to use site's title.
+    brand: # the brand name, leave it empty to use site's title.
     logo_bg: '#712cf9' # logo background color, used by logo with transparent background.
     # see https://hbstack.dev/en/docs/modules/socials/.
     socials:
@@ -31,11 +31,11 @@ hb:
       width: .35 # the width of sidebar.
       position: start # the sidebar position: start (left) or end (right).
       profile:
-        # title: Profile title other than site title.
+        title: Celestial Entity # Profile title other than site title.
         # description: Profile description other than site description.
         avatar_size: 100
         company: Celestial Mind
-        location: NERV HQ,Geofront
+        location: NERV HQ
         socials:
           github: stardoom4
           # mastodon: https://techhub.social/@hbstack
@@ -43,10 +43,10 @@ hb:
       posts:
         recent_count: 5 # the number of recent posts.
         featured_count: 5 # the number of featured posts.
-        style: pills # pills, tabs or underline.
+        style: tabs # pills, tabs or underline.
         list_style: slide # slide or vertical.
       taxonomies:
-        count: true # whether to show the number of posts associated to the item.
+        count: false # whether to show the number of posts associated to the item.
         limit: 10 # the maximum number of the item.
         style: pills # pills, tabs or underline.
         separate: false # whether to separate into mutliple sections.
@@ -56,10 +56,10 @@ hb:
           count: false # override the global count setting.
           limit: 5 # override the global limit setting.
         categories:
-          disable: false
+          disable: true
           weight: 3
         series:
-          disable: false
+          disable: true
           weight: 2
         tags:
           disable: false
@@ -68,10 +68,10 @@ hb:
           # title: Popular Tags # override the title.
     paginate: 12 # paginate.
     post_thumbnail_placeholder: Celestial Mind # the text of thumbnail placeholder, default to site title.
-    post_thumbnail: true # whether to show the thumbnails.
+    post_thumbnail: false # whether to show the thumbnails.
     # post_date_format: ":date_long" # see https://gohugo.io/functions/dateformat/#datetime-formatting-layouts.
     home: # homepage settings.
-      # taxonomies: false # remove the taxonomies stat from the homepage.
+      taxonomies: false # remove the taxonomies stat from the homepage.
       featured_posts: 5 # the number of the featured posts, 0 means disabled.
       pinned_posts_position: "list"
       main_sections: # leave it empty to include all regular pages.
