@@ -43,7 +43,7 @@ hb:
       posts:
         recent_count: 5 # the number of recent posts.
         featured_count: 5 # the number of featured posts.
-        style: tabs # pills, tabs or underline.
+        style: pills # pills, tabs or underline.
         list_style: slide # slide or vertical.
       taxonomies:
         count: false # whether to show the number of posts associated to the item.
