@@ -8,3 +8,4 @@ title: Home
 <p>Letterbox: <a href="https://letterboxd.com/celestialentity/">CelestialEntity@Letterbox</a></p>
 <a href="https://512kb.club"><img src="https://512kb.club/assets/images/green-team.svg" alt="a proud member of the green team of 512KB club" /></a>
 <p>👻 Proud member of <a href="https://darktheme.club/">darktheme.club</a> 👻</p>
+{{ $page := .Site.GetPage "/about" }}
