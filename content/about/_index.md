@@ -1,5 +1,5 @@
 ---
 title: About
 layout: docs
-permalink: /about/
+url: /about
 ---
