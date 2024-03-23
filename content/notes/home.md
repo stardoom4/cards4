@@ -1,7 +1,7 @@
 ---
 title: Home
 ---
-This is my Home on Internet. Here you'll find some notes related to Science and my Interests. Find out about this [About]({{< ref "/about" >}} "About Us")
+This is my Home on Internet. Here you'll find some notes related to Science and my Interests. Find out about this [site]({{< ref "/notes/about" >}} "About Us")
 ## Online Presence
 <p>Code Repositories: <a href="https://github.com/stardoom4">CelestialEntity@GitHub</a></p>
 <p>Status.Cafe: <a href="https://status.cafe/users/celestialentity">CelestialEntity@Status.Cafe</a></p>
