@@ -3,6 +3,9 @@
 /*! purgecss start ignore */
 
 /*! PUT YOU STYLE HERE TO AVOID GETTING REMOVING BY PURGECSS. */
+body {
+    font-family: serif;
+}
 h1 {
     font-weight: 400;
     font-size: 3rem;
@@ -14,6 +17,15 @@ h2 {
     font-weight: 400;
     font-size: 2rem;
     line-height: 1;
+}
+p {
+    font-size: 1.4em;
+}
+p {
+    font-size: 1.4em;
+}
+a {
+    font-size: 1.4em;
 }
 
 /*! purgecss end ignore */
