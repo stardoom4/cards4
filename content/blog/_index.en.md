@@ -1,3 +1,4 @@
 ---
 title: Blog
+comments: false
 ---
