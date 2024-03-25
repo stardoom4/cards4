@@ -1,4 +1,9 @@
 # see https://hugomods.com/en/docs/google-analytics/.
 # googleAnalytics: 'G-XXXXXXXXXX' # Google Analytics, please make sure you've imported the Google Analytics module.
-
+// hugo.yaml
+cascade:
+  - _target:
+      path: '*/**'
+    params:
+      comments: false
 # disqusShortname: XXXXXX # The Disqus shortname.
