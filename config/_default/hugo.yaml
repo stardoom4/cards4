@@ -61,6 +61,12 @@ related:
   threshold: 10 # for testing, increase it to suit your case.
   toLower: false
 
+cascade:
+  - _target:
+      path: '*/**'
+    params:
+      comments: false
+      
 security:
   funcs:
     getenv:
