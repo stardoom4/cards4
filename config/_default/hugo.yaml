@@ -16,6 +16,12 @@ permalinks:
   blog: /blog/:year/:month/:title
   news: /news/:year/:month/:title
 
+cascade:
+  - _target:
+      path: '*/**'
+    params:
+      comments: false
+  
 outputs:
   home:
     - HTML
@@ -60,13 +66,7 @@ related:
     weight: 10
   threshold: 10 # for testing, increase it to suit your case.
   toLower: false
-
-cascade:
-  - _target:
-      path: '*/**'
-    params:
-      comments: false
-      
+    
 security:
   funcs:
     getenv:
