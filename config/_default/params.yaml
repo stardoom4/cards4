@@ -97,7 +97,13 @@ hb:
   # google_fonts:
     # families:
       # - name: Lato
-
+# hugo.yaml
+cascade:
+  - _target:
+      path: '*/**'
+    params:
+      comments: false
+      
 seo:
   favicons: # see https://hugomods.com/en/docs/seo/#favicons-module
     icon: images/pfp.png # use logo as favicon.
